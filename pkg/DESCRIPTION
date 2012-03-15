@@ -1,0 +1,10 @@
+Package: Piet
+Type: Package
+Title: DNA CNV analysis tools based on fused lasso type of model
+Version: 0.1.0
+Date: 2012-02-05
+Author: Zhongyang (Thomas) Zhang
+Maintainer: Zhongyang (Thomas) Zhang <zhangzy@ucla.edu>
+Description: This package provides some segmentation tools for analysis of individual or multiple sequences of CNV data.
+License: GPL (>=2.0)
+Depends: RANN
